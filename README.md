@@ -1,10 +1,31 @@
 # TMDL Extension for Visual Studio Code
 
-A Visual Studio Code extension that adds language support for the Tabular Model Definition Language (TMDL).
+A Visual Studio Code extension that adds rich language support for the **Tabular Model Definition Language (TMDL)**.
+TMDL is a human-readable language designed for describing tabular models in Microsoft Fabric and Analysis Services.
+→ [Learn more about TMDL](https://learn.microsoft.com/en-us/analysis-services/tmdl/tmdl-overview?view=asallproducts-allversions)
+→ [Explore TMDL in Power BI](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-tmdl-view)
+→ [Download from Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=analysis-services.TMDL)
 
-Current features include:
-- Syntax Highlighting
-- ...More coming soon!
+---
+
+## Features
+
+* **Semantic Highlighting**: Enhances TMDL readability with context-aware syntax coloring.
+* **Error Diagnostics**: Detects and highlights issues that may cause TMDL deserialization failures.
+* **Auto Complete**: Offers intelligent suggestions for TMDL tokens.
+* **Code Formatting**: Automatically formats code to ensure consistent structure.
+* **Hover Support**: Displays detailed information for TMDL tokens on hover.
+* **Code Actions**: Provides quick fixes and refactoring tools.
+* **Breadcrumbs Navigation**: Visualizes the hierarchical structure of your TMDL file.
+* **Power Query Support**:
+
+  * Syntax highlighting
+  * Inline diagnostics for syntax errors
+  * Auto completion of tokens and functions
+  * Smart formatting of embedded expressions
+* **Localized Error Messages**: Adapts diagnostics to your editor’s language settings.
+* ...and more features coming soon!
+
 
 ## Code Structure
 
